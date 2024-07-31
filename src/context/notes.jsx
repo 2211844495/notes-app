@@ -1,5 +1,5 @@
 import { useLocalStorageState } from "ahooks";
-import { createContextd } from "react";
+import { createContext } from "react";
 
 const notes = [
 	{
